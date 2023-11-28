@@ -1,2 +1,3 @@
 # Bank Management System
- A fully functional bank management system
+ A fully functional bank management system.
+ 
